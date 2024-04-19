@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/DevTool/static/css/main.edbac6ca.css",
-    "main.js": "/DevTool/static/js/main.1715a3dc.js",
+    "main.js": "/DevTool/static/js/main.c96e8049.js",
     "index.html": "/DevTool/index.html",
     "main.edbac6ca.css.map": "/DevTool/static/css/main.edbac6ca.css.map",
-    "main.1715a3dc.js.map": "/DevTool/static/js/main.1715a3dc.js.map"
+    "main.c96e8049.js.map": "/DevTool/static/js/main.c96e8049.js.map"
   },
   "entrypoints": [
     "static/css/main.edbac6ca.css",
-    "static/js/main.1715a3dc.js"
+    "static/js/main.c96e8049.js"
   ]
 }
